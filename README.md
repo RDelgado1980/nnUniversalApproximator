@@ -6,6 +6,6 @@
 
 In this Jupyter Notebook I show an example and implementation of the Universal Approximation Theorem for Neural Networks using both Tensorflow/Keras and PyTorch.
 
-Just click the *Open in Colab* button to open it.
+Just click the **Open in Colab** button to open it.
 
 I hope you like it!
